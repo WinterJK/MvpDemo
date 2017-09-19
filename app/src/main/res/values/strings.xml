@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvpDemo</string>
+    <string name="hint_none">您好，账号或者密码不能为空</string>
+    <string name="hint_register_succeed">您好，注册成功！</string>
+    <string name="hint_login_succeed">您好，登录成功！</string>
+    <string name="hint_password_error">密码有误，请重试</string>
+    <string name="hint_user_none">用户名不存在，请先注册</string>
+</resources>
